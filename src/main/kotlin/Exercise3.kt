@@ -1,14 +1,9 @@
 // Print the multiplication table with 7
 fun main() {
     var i: Int = 1
-    while(i<8){
-        var j: Int = 1
-        while(j<13){
-            var ans: Int = i * j
-            println("$i * $j = $ans")
-            j++
-        }
-        println("-------")
+    while(i<13){
+        var ans = i * 7
+        println("$i * 7 = $ans")
         i++
     }
 }
