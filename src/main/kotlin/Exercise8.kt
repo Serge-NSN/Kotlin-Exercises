@@ -4,9 +4,9 @@
 //    var farenheit = (celcius * 95) + 32
 //    return farenheit
 //}
-fun celciusToFarenheit(x: Double)= (x * (9/5)) + 32
+fun celciusToFarenheit(x: Float) = x * 9/5 + 32
 
 fun main() {
-    println(celciusToFarenheit(27.00))
+    println(celciusToFarenheit(10F))
 
 }
