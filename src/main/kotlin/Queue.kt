@@ -1,11 +1,19 @@
-class Queue(var queue: MutableList<Int>) {
+class Queue() {
 
+    var queue: MutableList<Int> = mutableListOf()
+    var maxSize: Int = 0
     fun isEmpty(): Boolean{
         return queue.isEmpty()
     }
     fun enqueue(element: Int){
-        queue.add(element)
-        println(queue)
+        if(queue.size < maxSize){
+            queue.add(element)
+            println(queue)
+        }
+        else{
+            println("Queue is full")
+        }
+
     }
     fun dequeue(){
         if(queue.isEmpty()){
@@ -16,8 +24,14 @@ class Queue(var queue: MutableList<Int>) {
             println(queue)
         }
     }
-    fun peek(){
-        println(queue.elementAt(queue.size - 1))
+     fun peek(){
+        if (queue.isEmpty()){
+            println("Queue is empty")
+        }
+        else{
+            println(queue.elementAt(queue.size - 1))
+        }
+
     }
 }
 
