@@ -10,6 +10,10 @@ fun main() {
     myQueue.enqueue(12)
     myQueue.dequeue()
     myQueue.dequeue()
-    myQueue.enqueue(12)
+    myQueue.dequeue()
+    myQueue.dequeue()
+    myQueue.dequeue()
+    myQueue.dequeue()
+    println(myQueue.queue)
 
 }

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a484b02-1ce8-43cb-b43f-19e81d535e53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise14.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Queue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Queue.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/queueTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/queueTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

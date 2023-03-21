@@ -17,7 +17,7 @@ class Queue() {
     }
     fun dequeue(){
         if(queue.isEmpty()){
-            println("Queue is empty")
+            println("Cannot Dequeue, Queue is empty!")
         }
         else{
             queue.removeAt(0)
