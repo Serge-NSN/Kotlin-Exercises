@@ -1,8 +1,4 @@
-var name: String = "Serge"
-var greeting: String? = null
-fun main(){
-    if (greeting != null){
-        println(greeting)
-    }
-    println(name)
+fun main() {
+    var myArr: Array<Int> = arrayOf(1,2,3)
+    println(myArr.toMutableList())
 }

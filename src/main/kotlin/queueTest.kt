@@ -1,8 +1,15 @@
 import Queue
 fun main() {
-    var myList = Queue(mutableListOf(1,2,3,4,5))
-    println(myList.queue)
-    myList.enqueue(1)
-    myList.dequeue()
-    myList.peek()
+    var myQueue = Queue()
+    myQueue.maxSize = 5
+    myQueue.enqueue(2)
+    myQueue.enqueue(4)
+    myQueue.enqueue(6)
+    myQueue.enqueue(8)
+    myQueue.enqueue(10)
+    myQueue.enqueue(12)
+    myQueue.dequeue()
+    myQueue.dequeue()
+    myQueue.enqueue(12)
+
 }
