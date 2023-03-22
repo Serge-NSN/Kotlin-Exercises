@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a484b02-1ce8-43cb-b43f-19e81d535e53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Excercise16.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Excercise17.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Excercise16Kt">
+  <component name="RunManager">
     <configuration name="Excercise16Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Excercise16Kt" />
       <module name="Kotlin_Exercises" />
