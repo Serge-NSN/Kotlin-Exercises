@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a484b02-1ce8-43cb-b43f-19e81d535e53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Excercise15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Excercise16.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Excercise16Kt">
+    <configuration name="Excercise16Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excercise16Kt" />
+      <module name="Kotlin_Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise10Kt" />
       <module name="Kotlin_Exercises" />
@@ -47,6 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Excercise16Kt" />
         <item itemvalue="Kotlin.Exercise10Kt" />
       </list>
     </recent_temporary>
