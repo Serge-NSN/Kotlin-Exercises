@@ -1,5 +1,4 @@
 // Print the first 100 prime numbers
-import isPrime
 
 fun main() {
     var num:Int = 0
