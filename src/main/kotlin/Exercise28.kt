@@ -8,6 +8,7 @@ fun sumOfFirstHundredPrimeNumbers():Int{
         }
         i++
     }
+    println(ans)
     return ans.sum()
 }
 
